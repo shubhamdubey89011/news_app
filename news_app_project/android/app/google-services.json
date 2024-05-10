@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259474020635",
+    "project_id": "apna-shahar-12b5a",
+    "storage_bucket": "apna-shahar-12b5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259474020635:android:ebdac2b4216956171a5bbe",
+        "android_client_info": {
+          "package_name": "com.example.news_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeq42Yd29lceKddqDFzC8TTdEAhNhU4iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259474020635:android:4bf7c8868363414c1a5bbe",
+        "android_client_info": {
+          "package_name": "mrblab.news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeq42Yd29lceKddqDFzC8TTdEAhNhU4iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,161 @@
+{
+    
+    "home": "होम",
+    "videos": "वीडियो",
+    "categories" : "श्रेणियाँ",
+    "profile": "प्रोफाइल",
+    "Apna": "अपना",
+    "Shahar": "शहर",
+    "Add Video": "वीडियो जोड़ें",
+
+    "Cultural Insights & Traditions": "सांस्कृतिक अंतर्दृष्टि और परंपराएँ",
+    "Local News Updates": "स्थानीय समाचार अपडेट",
+    "Health and Wellness Tips": "स्वास्थ्य और कल्याण युक्तियाँ",
+    "Astrology": "ज्योतिष",
+    "Job Opportunities": "रोजगार के अवसर",
+    "Exposing Scams & Fake News": "घोटालों और फर्जी खबरों को उजागर करना",
+
+    "welcome to" : "स्वागत है",
+    "sign in to continue": "जारी रखने के लिए साइन इन करें",
+    "skip": "छोड़ें",
+    "done": "खत्म",
+
+    "intro-title1" : "नवीनतम समाचार खोजें",
+    "intro-title2" : "सबसे पहले सूचित हों",
+    "intro-title3" : "लेख सहेजें",
+    "intro-description1" : "दुनिया में हो रही नवीनतम समाचार और घटनाओं का अन्वेषण करें मिनटों में...",
+    "intro-description2" : "सदस्यता लें और हमारे सभी लेखों को सूचित करें और अपने दोस्तों के साथ साझा करें...",
+    "intro-description3" : "अपने पसंदीदा लेखों को बुकमार्क, लाइक और टिप्पणी करें और सोशल मीडिया पर साझा करें...",
+    "get started" : "शुरू करें",
+    "don't have social accounts?" : "क्या आपके पास सोशल खाते नहीं हैं?",
+    "continue with email >>" : "ईमेल के साथ जारी रखें >>",
+
+    "sign up": "साइन अप",
+    "sign in": "साइन इन",
+    "follow the simple steps": "सरल चरणों का पालन करें",
+    "name": "नाम",
+    "already have an account?": "पहले से ही अकाउंट है?",
+    "forgot password?": "पासवर्ड भूल गए?",
+    "reset your password": "अपना पासवर्ड रीसेट करें",
+    "submit": "सबमिट",
+    "sign in successful!" : "साइन इन सफल!",
+    "sign up successful!": "साइन अप सफल!",
+    "don't have an account?" : "अकाउंट नहीं है?",
+    "Sign In with Google": "Google से साइन इन करें",
+    "Sign In with Facebook": "फ़ेसबुक से साइन इन करें",
+    "Sign in with Phone": "फ़ोन से साइन इन करें",
+    "By SigningUp/Logging In, You agree to our": "साइनअप/लॉग इन करके, आप हमारी बात से सहमत होते हैं",
+    "Terms of Services": "सेवाओं की शर्तें",
+    "and": "और",
+    "Privacy Policy": "गोपनीयता नीति",
+
+
+    "search news" : "समाचार खोजें",
+    "popular news" : "लोकप्रिय समाचार",
+    "recent news" : "हाल के समाचार",
+    "explore": "एक्स्प्लोर",
+    "featured": "फीचर्ड",
+    "view all" : "सभी देखें",
+
+
+    "video articles" : "वीडियो आर्टिकल",
+    "most recent": "सबसे हाल ही में",
+    "most popular": "सबसे लोकप्रिय",
+    "no categories found": "कोई श्रेणियाँ नहीं मिली",
+
+
+    "people like this" : "यह लोग पसंद करते हैं",
+    "you might also like" : "आपको यह भी पसंद आ सकता है",
+    "no articles found" : "कोई आर्टिकल नहीं मिला",
+
+
+    "no internet" : "कोई इंटरनेट कनेक्शन नहीं!",
+    "no comments found" : "कोई कमैंट्स नहीं मिलीं",
+    "be the first to comment" : "पहले कमेंट करें",
+
+
+    "recent searchs" : "हाल की खोजें",
+    "search-description" :  "आपने अब तक किसी आइटम के लिए खोज नहीं की है।\n अब कोशिश करें - हम आपकी मदद करेंगे!",
+    "we have found" : "हमें मिला है",
+    "try again" : "फिर से प्रयास करें",
+
+
+    "bookmarks" : "बुकमार्क",
+    "sign in first" : "पहले साइन इन करें",
+    "sign in to save your favourite articles here" : "अपने पसंदीदा आर्टिकल को यहां सहेजने के लिए साइन इन करें",
+    "save your favourite articles here" : "अपने पसंदीदा आर्टिकल को यहां सहेजें",
+
+
+    "check your internet connection!" : "अपना इंटरनेट कनेक्शन जांचें!",
+    "something is wrong. please try again." : "कुछ गलत है। कृपया पुन: प्रयास करें।",
+    "error fb login" : "फेसबुक लॉगिन में त्रुटि! कृपया गूगल के साथ प्रयास करें",
+
+
+    "Cancel" : "रद्द करें",
+    "no sign in title" : "इस सुविधा तक पहुंचने के लिए पहले साइन इन करें",
+    "no sign in subtitle" : "आपने अभी तक साइन इन नहीं किया है। कृपया इस सुविधा को अनलॉक करने के लिए साइन इन करें",
+    "Gallery": "गैलरी",
+    "Camera": "कैमरा",
+
+    
+    "comments" : "कमैंट्स",
+    "write a comment" : "कमैंट्स लिखें",
+
+
+    "no content" : "कोई सामग्री नहीं मिली",
+    "flag this comment" : "इस कमैंट्स को फ़्लैग करें",
+    "unflag this comment" : "इस कमैंट्स को अनफ्लैग करें",
+    "report" : "रिपोर्ट",
+    "delete" : "हटाएँ",
+    "report-info" : "आपकी रिपोर्ट को सफलतापूर्वक व्यवस्थापकों को भेज दिया गया है",
+    "report-info1" : "आपकी रिपोर्ट के लिए धन्यवाद। हम 24 घंटे के भीतर प्रतिक्रिया करेंगे।",
+    "report-guest" : "साइन इन की आवश्यकता है!",
+    "report-guest1" : "आपको किसी भी टिप्पणी के बारे में रिपोर्ट करने के लिए साइन इन करना होगा",
+    "comment flagged" : "इस कमैंट्स को फ्लैग किया गया है!",
+
+
+    "notifications" : "नोटफकैशन",
+    "notification details" : "नोटफकैशन विवरण",
+
+
+    "general settings" : "सामान्य सेटिंग्स",
+    "dark mode" : "डार्क मोड",
+    "login" : "लॉगिन",
+    "get notifications" : "नोटफकैशन प्राप्त करें",
+    "contact us" : "संपर्क करें",
+    "rate this app" : "इस ऐप को रेट करें",
+    "licence" : "लाइसेंस",
+    "privacy policy" : "गोपनीयता नीति",
+    "about us" : "हमारे बारे में",
+    "logout" : "लॉगआउट",
+    "edit profile" : "प्रोफ़ाइल एडिट करें",
+    "update profile" : "प्रोफ़ाइल अपडेट करें",
+    "updated successfully" : "सफलतापूर्वक अपडेट किया गया",
+    "enter new name" : "नया नाम दर्ज करें",
+
+    "logout title" : "क्या आप वाकई ऐप से लॉगआउट करना चाहते हैं?",
+    "yes" : "हां",
+    "no" : "नहीं",
+
+    "language" : "भाषा",
+    "select language" : "भाषा चुनें",
+
+    "buy now" : "इस ऐप को खरीदें",
+    "buy now subtitle" : "यहां पूरे स्रोत कोड को खरीदें",
+
+    "facebook page" : "फेसबुक पेज",
+    "youtube channel" : "यूट्यूब चैनल",
+    "twitter": "ट्विटर",
+    "views": "दृश्य",
+
+
+    "clear-all" : "सभी हटाएं",
+    "clear-all-notification-dialog": "क्या आप सभी नोटफकैशन डेटा को हटाना चाहते हैं?",
+    "no-notification-title": "कोई नोटफकैशन नहीं मिलीं!",
+    "no-notification-description" : "आपको अभी तक कोई नोटफकैशन प्राप्त नहीं हुईं हैं। सुनिश्चित करें कि आपने सेटिंग्स से नोटफकैशन चालू की हैं।",
+    "security": "सुरक्षा",
+    "delete-user-data": "मेरा डेटा और अकाउंट हटाएं",
+    "account-delete-title": "क्या आप वाकई अपने डेटा को हटाना चाहते हैं?",
+    "account-delete-subtitle": "आपका अकाउंट जानकारी जैसे प्रोफ़ाइल डेटा, बुकमार्क्स, आदि को ऐप डेटाबेस से मिटा दिया जाएगा और आपको जारी रखने के लिए ऐप में पुनः साइन अप करना होगा।",
+    "account-delete-confirm": "हां, मेरा अकाउंट हटाएं"
+}
